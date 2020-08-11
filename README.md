@@ -1,3 +1,7 @@
+## Demonstration
+
+![](/demo.gif)
+---
 # Unit 19 React Homework: Employee Directory
 
 ## Overview
